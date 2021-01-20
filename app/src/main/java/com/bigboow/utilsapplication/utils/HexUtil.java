@@ -1,4 +1,4 @@
-package com.bigboow.utilsapplication;
+package com.bigboow.utilsapplication.utils;
 
 import java.io.UnsupportedEncodingException;
 

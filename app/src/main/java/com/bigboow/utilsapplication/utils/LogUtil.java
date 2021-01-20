@@ -1,4 +1,4 @@
-package com.bigboow.utilsapplication;
+package com.bigboow.utilsapplication.utils;
 
 import android.text.TextUtils;
 import android.util.Log;

@@ -5,7 +5,7 @@ import android.security.keystore.KeyProperties;
 import android.text.TextUtils;
 import android.util.Pair;
 
-import com.bigboow.utilsapplication.LogUtil;
+import com.bigboow.utilsapplication.utils.LogUtil;
 
 import java.security.InvalidAlgorithmParameterException;
 import java.security.InvalidKeyException;

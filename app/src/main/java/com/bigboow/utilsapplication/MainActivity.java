@@ -6,6 +6,7 @@ import android.widget.Button;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import com.bigboow.utilsapplication.utils.LogUtil;
 import com.bigboow.utilsapplication.encrypt.AES.AESTest;
 
 public class MainActivity extends AppCompatActivity {

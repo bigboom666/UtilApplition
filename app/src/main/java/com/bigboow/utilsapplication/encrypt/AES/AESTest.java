@@ -2,8 +2,8 @@ package com.bigboow.utilsapplication.encrypt.AES;
 
 import android.util.Pair;
 
-import com.bigboow.utilsapplication.HexUtil;
-import com.bigboow.utilsapplication.LogUtil;
+import com.bigboow.utilsapplication.utils.HexUtil;
+import com.bigboow.utilsapplication.utils.LogUtil;
 
 import java.io.UnsupportedEncodingException;
 import java.security.InvalidAlgorithmParameterException;
